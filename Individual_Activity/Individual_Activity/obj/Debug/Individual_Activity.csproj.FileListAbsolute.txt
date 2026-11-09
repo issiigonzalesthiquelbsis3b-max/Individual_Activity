@@ -1,0 +1,13 @@
+C:\Users\gonza\source\repos\Individual_Activity\Individual_Activity\bin\Debug\Individual_Activity.exe.config
+C:\Users\gonza\source\repos\Individual_Activity\Individual_Activity\bin\Debug\Individual_Activity.exe
+C:\Users\gonza\source\repos\Individual_Activity\Individual_Activity\bin\Debug\Individual_Activity.pdb
+C:\Users\gonza\source\repos\Individual_Activity\Individual_Activity\obj\Debug\Individual_Activity.csproj.AssemblyReference.cache
+C:\Users\gonza\source\repos\Individual_Activity\Individual_Activity\obj\Debug\Individual_Activity.InventoryPage.resources
+C:\Users\gonza\source\repos\Individual_Activity\Individual_Activity\obj\Debug\Individual_Activity.SignupForm.resources
+C:\Users\gonza\source\repos\Individual_Activity\Individual_Activity\obj\Debug\Individual_Activity.LoginForm.resources
+C:\Users\gonza\source\repos\Individual_Activity\Individual_Activity\obj\Debug\Individual_Activity.Properties.Resources.resources
+C:\Users\gonza\source\repos\Individual_Activity\Individual_Activity\obj\Debug\Individual_Activity.csproj.GenerateResource.cache
+C:\Users\gonza\source\repos\Individual_Activity\Individual_Activity\obj\Debug\Individual_Activity.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Individual_Activity\Individual_Activity\obj\Debug\Individual_Activity.exe
+C:\Users\gonza\source\repos\Individual_Activity\Individual_Activity\obj\Debug\Individual_Activity.pdb
+C:\Users\gonza\source\repos\Individual_Activity\Individual_Activity\bin\Debug\Pawfect.accdb
